@@ -90,6 +90,9 @@ Any-to-Any generation refers to unified systems that can take inputs from multip
 - [**Easy, fast, and cheap omni-modality model serving for everyone**](https://docs.vllm.ai/projects/vllm-omni/en/latest/#about) [![Star](https://img.shields.io/github/stars/vllm-project/vllm.svg?style=social&label=Star)](https://github.com/vllm-project/vllm)   
     *🏷️:* `mllm`|`Talker`|`📄🎬🎨🔊`
 
+- [**AToken: A Unified Tokenizer for Vision**](https://arxiv.org/pdf/2509.14476) ![Paper](https://img.shields.io/badge/arXiv25-b22222)  [![Star](https://img.shields.io/github/stars/apple/ml-atoken.svg?style=social&label=Star)](https://github.com/apple/ml-atoken)   
+    🏷️:* `Unified Vision tokenizer`|`🎬🎨🧊`
+
 - [**Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data**](https://arxiv.org/pdf/2511.12609) ![Paper](https://img.shields.io/badge/arXiv25-b22222)  [![Star](https://img.shields.io/github/stars/HITsz-TMG/Uni-MoE.svg?style=social&label=Star)](https://github.com/HITsz-TMG/Uni-MoE/tree/master/Uni-MoE-2)   
     🏷️:* `llm`|`moe`|`📄🎬🎨🔊🎤`
 
