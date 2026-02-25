@@ -84,6 +84,14 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 ## Any-to-Any
 Any-to-Any generation refers to unified systems that can take inputs from multiple modalities (e.g., text/image/video/audio) and produce outputs in multiple modalities within a single framework.
 
+- [**AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation**](https://arxiv.org/pdf/2601.17761) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://modalitydance.github.io/AR-Omni/)    [![Star](https://img.shields.io/github/stars/ModalityDance/AR-Omni.svg?style=social&label=Star)](https://github.com/ModalityDance/AR-Omni)  
+    *🏷️:* `llm`|`AR`|`📄🎨🎤`
+
+
+- [**STAR: STacked AutoRegressive Scheme for Unified Multimodal Learning**](https://arxiv.org/pdf/2512.13752) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://star-mm-ai.github.io/)    [![Star](https://img.shields.io/github/stars/MM-MVR/STAR.svg?style=social&label=Star)](https://github.com/MM-MVR/STAR)   
+    *🏷️:* `llm`|`diffusion`|`📄🎨`
+
+
 - [**Symbolic Representation for Any-to-Any Generative Tasks**](https://arxiv.org/pdf/2504.17261)  [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/Jiaqi-Chen-00/Any-2-Any.svg?style=social&label=Star)](https://github.com/Jiaqi-Chen-00/Any-2-Any)    
     *🏷️:* `llm`|`diffusion`|`📄🎬🎨🧊`
 
@@ -197,6 +205,12 @@ Any-to-X methods accept flexible inputs (potentially multi-modal, such as text +
 ### Any-to-Text
 Any-to-Text focuses on producing textual outputs (captioning, explanation, dialogue, reasoning traces, instruction-following) from arbitrary visual/audio/3D/video inputs.
 
+- [**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**](https://www.arxiv.org/pdf/2602.04804) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  
+    *🏷️:* `Qwen2.5-Omni`|`📄🎬🎨🔊`
+
+- [**AnyCap Project: A Unified Framework, Dataset, and Benchmark for Controllable Omni-modal Captioning**](https://arxiv.org/pdf/2507.12841) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/qishisuren123/AnyCap.svg?style=social&label=Star)](https://github.com/qishisuren123/AnyCap)  
+    *🏷️:* `Qwen2.5-VL`|`📄🎬🎨🔊`
+
 - [**HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context**](https://arxiv.org/pdf/2506.21277)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/HumanMLLM/HumanOmniV2.svg?style=social&label=Star)](https://github.com/HumanMLLM/HumanOmniV2)         
     *🏷️:* `Qwen2.5-Omni-7B-thinker`|`📄🎬🎤`
 
@@ -264,6 +278,10 @@ Any-to-Image methods generate images conditioned on diverse inputs beyond text, 
 ### Any-to-Video
 Any-to-Video targets video generation from flexible conditions (text/image/video/audio/trajectory/layout).
 
+- [**Seedance 2.0**](https://seed.bytedance.com/zh/seedance2_0) <details><summary>Unified multimodal video-audio joint generation framework</summary>Seedance 2.0 significantly enhances its multimodal processing capabilities, supporting highly diverse and flexible mixed-modality inputs. Users can provide up to nine images, three video clips, three audio segments, along with natural language instructions simultaneously. This design enables the model to draw from multiple reference sources within a single creative task, rather than being limited to a single image or text prompt.</details>
+
+- [**SkyReels-V3 Technique Report**](https://arxiv.org/pdf/2601.17323)  [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V3.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V3)  
+
 - [**Videopoet:A large language model for zero-shot video generation**](https://arxiv.org/pdf/2312.14125)  [![Paper](https://img.shields.io/badge/ICCV24-2f4f4f)]() [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-T2X)  
 
 - [**VideoComposer: Compositional Video Synthesis with Motion Controllability**](https://arxiv.org/pdf/2306.02018.pdf) [![Paper](https://img.shields.io/badge/arXiv23-b22222)]() [![Star](https://img.shields.io/github/stars/ali-vilab/videocomposer.svg?style=social&label=Star)](https://github.com/ali-vilab/videocomposer)  
@@ -284,8 +302,14 @@ Image-to-Any aims to generate other modalities from visual input, such as image 
 
 ## Any Alignment
 
+- [**The Platonic Representation Hypothesis**](https://arxiv.org/pdf/2405.07987) [![Paper](https://img.shields.io/badge/IVCML24-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://phillipi.github.io/prh/)   
+    <details><summary>Neural networks, trained with different objectives on different data and modalities, are converging to a shared statistical model of reality in their representation spaces.</summary>Conventionally, different AI systems represent the world in different ways. A vision system might represent shapes and colors, a language model might focus on syntax and semantics. However, in recent years, the architectures and objectives for modeling images and text, and many other signals, are becoming remarkably alike. Are the internal representations in these systems also converging?</details>
+
 - [**LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment**](https://arxiv.org/pdf/2310.01852) [![Paper](https://img.shields.io/badge/ICLR24-8A2BE2)]()   [![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LanguageBind.svg?style=social&label=Star)](https://github.com/PKU-YuanGroup/LanguageBind)   
     *🏷️:* ` Binding modalities with languages`|`📄🎨🎬🔊`
+
+- [**Meta-Transformer: A Unified Framework for Multimodal Learning**](https://arxiv.org/pdf/2307.10802) [![Paper](https://img.shields.io/badge/arXiv23-b22222)]()   [![Star](https://img.shields.io/github/stars/invictus717/MetaTransformer.svg?style=social&label=Star)](https://github.com/invictus717/MetaTransformer)  [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://kxgong.github.io/meta_transformer/)     
+    *🏷️:* ` Binding modalities with unified representations`|`📄🎨🔊🧊`
 
 - [**ImageBind: One Embedding Space To Bind Them All**](https://arxiv.org/pdf/2305.05665) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]()   [![Star](https://img.shields.io/github/stars/facebookresearch/ImageBind.svg?style=social&label=Star)](https://github.com/facebookresearch/ImageBind)   
     *🏷️:* ` Binding modalities with images`|`📄🎨🎬🔊`
@@ -337,6 +361,11 @@ Image-to-Any aims to generate other modalities from visual input, such as image 
 - [**Better Together: Leveraging Unpaired Multimodal Data for Stronger Unimodal Models**](https://arxiv.org/pdf/2510.08492)
 - [**UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes**](https://arxiv.org/pdf/2205.10337)
 
+## Tools
+
+- [**vllm-omni**]( https://docs.vllm.ai/projects/vllm-omni/en/latest/#about) 
+    - [Blog](https://blog.vllm.ai/2025/11/30/vllm-omni.html)
+    - [Public Article](https://mp.weixin.qq.com/s/hLR_QsHz14PkCUwoILO-hg)
 
 # ⭐️ Star History
 
