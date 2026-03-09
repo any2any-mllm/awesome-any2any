@@ -4,7 +4,7 @@
 
 
 # 📣News
-✨✨✨We are organizing a **CVPR26 Workshop** on [Any-to-Any Multimodal Learning](https://a2a-mml-2026.vercel.app/), welcome submission.
+✨✨✨We are organizing a **CVPR26 Workshop** on [Any-to-Any Multimodal Learning](https://any2any-mllm.github.io/workshop-cvpr26/), welcome submission.
 
 
 # 🎨 Introduction
@@ -48,6 +48,14 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 
 # 🌷 Datasets 
 
+- [**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**](https://arxiv.org/pdf/2603.05075) `📄🎨🔊🎶🧊...`
+
+- [**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**](https://arxiv.org/pdf/2603.03241)
+
+- [**Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark**](https://arxiv.org/pdf/2510.13759)
+
+- [**RealUnify: Do Unified Models Truly Benefit from Unification? A Comprehensive Benchmark**](https://arxiv.org/pdf/2509.24897)
+
 - [**MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models**](https://arxiv.org/pdf/2410.10139())  `📄🎨`
 
 - [**Interleaved Scene Graphs for Interleaved Text-and-Image Generation Assessment**](https://openreview.net/pdf?id=rDLgnYLM5b) `📄🎨`
@@ -83,6 +91,15 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 
 ## Any-to-Any
 Any-to-Any generation refers to unified systems that can take inputs from multiple modalities (e.g., text/image/video/audio) and produce outputs in multiple modalities within a single framework.
+
+- [**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**](https://arxiv.org/pdf/2603.05075)   [![Paper](https://img.shields.io/badge/CVPR26-8A2BE2)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://any2any-mllm.github.io/unim/)  
+    *🏷️:* `Agentic System`|`📄🎨🔊🎶🧊...`
+
+- [**OmniGAIA: Towards Native Omni-Modal AI Agents**](https://arxiv.org/pdf/2602.22897) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  [![Star](https://img.shields.io/github/stars/RUC-NLPIR/OmniGAIA.svg?style=social&label=Star)](https://github.com/RUC-NLPIR/OmniGAIA)  
+    *🏷️:* `AR`|`📄🎨🎤🎬`
+
+- [**Beyond Language Modeling: An Exploration of Multimodal Pretraining**](https://arxiv.org/pdf/2603.03276)  [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://beyond-llms.github.io/)  
+    *🏷️:* `AR`|`📄🎨`
 
 - [**AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation**](https://arxiv.org/pdf/2601.17761) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://modalitydance.github.io/AR-Omni/)    [![Star](https://img.shields.io/github/stars/ModalityDance/AR-Omni.svg?style=social&label=Star)](https://github.com/ModalityDance/AR-Omni)  
     *🏷️:* `llm`|`AR`|`📄🎨🎤`
