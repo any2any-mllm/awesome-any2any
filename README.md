@@ -50,9 +50,13 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 
 - [**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**](https://arxiv.org/pdf/2603.05075) `📄🎨🔊🎶🧊...`
 
+- [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/pdf/2502.04326)
+
 - [**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**](https://arxiv.org/pdf/2603.03241)
 
 - [**Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark**](https://arxiv.org/pdf/2510.13759)
+
+- [**UNO-Bench: A Unified Benchmark for Exploring the Compositional Law Between Uni-modal and Omni-modal in Omni Models**](https://arxiv.org/pdf/2510.18915)
 
 - [**RealUnify: Do Unified Models Truly Benefit from Unification? A Comprehensive Benchmark**](https://arxiv.org/pdf/2509.24897)
 
@@ -142,6 +146,9 @@ Any-to-Any generation refers to unified systems that can take inputs from multip
 - [**Show-o2: Improved Native Unified Multimodal Models**](https://arxiv.org/pdf/2506.15564)  ![Paper](https://img.shields.io/badge/arXiv25-b22222)  [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)   
     *🏷️:* `llm`|`flow`|`📄🎬🎨`
 
+- [**Baichuan-Omni-1.5 Technical Report**](https://arxiv.org/pdf/2501.15368) [![Star](https://img.shields.io/github/stars/baichuan-inc/Baichuan-Omni-1.5.svg?style=social&label=Star)](https://github.com/baichuan-inc/Baichuan-Omni-1.5)   
+    *🏷️:* `llm`|`audio decoder`|`📄🎬🎨🎤`
+
 - [**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**](https://arxiv.org/pdf/2408.12528)  ![Paper](https://img.shields.io/badge/ICLR25-696969)  [![Star](https://img.shields.io/github/stars/showlab/Show-o.svg?style=social&label=Star)](https://github.com/showlab/Show-o)   
     *🏷️:* `llm`|`diffusion`|`📄🎬🎨`
 
@@ -222,6 +229,7 @@ Any-to-X methods accept flexible inputs (potentially multi-modal, such as text +
 ### Any-to-Text
 Any-to-Text focuses on producing textual outputs (captioning, explanation, dialogue, reasoning traces, instruction-following) from arbitrary visual/audio/3D/video inputs.
 
+
 - [**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**](https://www.arxiv.org/pdf/2602.04804) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  
     *🏷️:* `Qwen2.5-Omni`|`📄🎬🎨🔊`
 
@@ -239,6 +247,15 @@ Any-to-Text focuses on producing textual outputs (captioning, explanation, dialo
 
 - [**A Reason-then-Describe Instruction Interpreter for Controllable Video Generation**](https://arxiv.org/pdf/2511.20563)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sqwu.top/ReaDe/)     
     *🏷️:* `Qwen2.5-Omni-7B`|`📄🎬🎨🎥🏃🏻🔊🎤`
+
+- [**OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models**](https://arxiv.org/pdf/2511.14582) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()     
+    *🏷️:* `Qwen2.5-Omni-3/7B`|`📄🎬🔊🎤`
+
+- [**EchoingPixels: Cross-Modal Adaptive Token Reduction for Efficient Audio-Visual LLMs**](https://arxiv.org/pdf/2512.10324) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()     
+    *🏷️:* `Qwen2.5-Omni-3/7B`|`📄🎬🔊🎤`
+
+- [**Ola: Pushing the Frontiers of Omni-Modal Language Model**](https://arxiv.org/pdf/2502.04328) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/Ola-Omni/Ola.svg?style=social&label=Star)](https://github.com/Ola-Omni/Ola) [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://ola-omni.github.io/)           
+    *🏷️:* `Qwen-2.5-7B`|`📄🎬🎨🔊🎤`
 
 - [**Daily-Omni: Towards Audio-Visual Reasoning with Temporal Alignment across Modalities**](https://arxiv.org/pdf/2505.17862)  [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/Lliar-liar/Daily-Omni.svg?style=social&label=Star)](https://github.com/Lliar-liar/Daily-Omni)         
     *🏷️:* `Qwen2.5-VL/Qwen2-Audio`|`📄🎬🎨🔊🎤`
