@@ -348,6 +348,32 @@ Image-to-Any aims to generate other modalities from visual input, such as image 
 - [**ImageBind: One Embedding Space To Bind Them All**](https://arxiv.org/pdf/2305.05665) [![Paper](https://img.shields.io/badge/CVPR23-8A2BE2)]()   [![Star](https://img.shields.io/github/stars/facebookresearch/ImageBind.svg?style=social&label=Star)](https://github.com/facebookresearch/ImageBind)   
     *🏷️:* ` Binding modalities with images`|`📄🎨🎬🔊`
 
+
+
+## Multimodal VAE
+A **multimodal variational autoencoder (multimodal VAE)** is a deep generative model designed to learn a shared latent representation from multiple data modalities, such as images, text, audio, or video, within a unified probabilistic framework.
+Unlike standard VAEs that model a single data distribution, multimodal VAEs aim to model the joint distribution over multiple modalities. In a typical multimodal VAE, each modality has its own encoder, while a shared latent space is used to generate all modalities through modality-specific decoders. This shared latent representation enables the model to capture cross-modal correlations and supports joint generation, cross-modal translation, and missing-modality inference. See [MAE.md](MAE.md).
+
+- [**Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**](https://arxiv.org/pdf/2211.08332)
+
+- [**Multimodal Latent Language Modeling with Next-Token Diffusion**](https://arxiv.org/pdf/2412.08635) 
+
+- [**Deep Generative Clustering with Multimodal Diffusion Variational Autoencoders**](https://openreview.net/pdf?id=k5THrhXDV3)
+
+- [**Score-Based Multimodal Autoencoder**](https://arxiv.org/pdf/2305.15708)
+
+- [**MMVAE+: ENHANCING THE GENERATIVE QUALITY OF MULTIMODAL VAES WITHOUT COMPROMISES**](https://openreview.net/pdf?id=sdQGxouELX)
+
+- [**ON THE LIMITATIONS OF MULTIMODAL VAES**](https://arxiv.org/pdf/2110.04121)
+
+- [**Private-Shared Disentangled Multimodal VAE for Learning of Hybrid Latent Representations**](https://arxiv.org/pdf/2012.13024)
+
+- [**Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models**](https://arxiv.org/pdf/1911.03393)
+
+- [**Multimodal Generative Models for Scalable Weakly-Supervised Learning**](https://arxiv.org/pdf/1802.05335)
+
+
+
 ---
 
 # 🐱‍🚀 Miscellaneous
