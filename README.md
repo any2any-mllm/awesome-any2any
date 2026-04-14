@@ -11,7 +11,7 @@
 Traditional generative models are typically designed for a fixed input–output modality pair (e.g., text-to-image or image-to-text).
 However, real-world multimodal intelligence requires the ability to flexibly generate across arbitrary modality combinations, including multi-input and multi-output settings.
 
-This repository aims to systematize **`Any-to-Any Generation`**, where models can accept inputs from arbitrary modalities and produce outputs in arbitrary modalities within a unified framework.
+This repository aims to systematize **`Any-to-Any Multimodal Intelligences`**, where models can accept inputs from arbitrary modalities and produce outputs in arbitrary modalities within a unified framework.
 
   <p align="center">
   <img src="assets/introduction.png" width="100%">
@@ -311,6 +311,9 @@ Any-to-Image methods generate images conditioned on diverse inputs beyond text, 
 
 ### Any-to-Video
 Any-to-Video targets video generation from flexible conditions (text/image/video/audio/trajectory/layout).
+
+- [**OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning**](https://arxiv.org/pdf/2603.24458) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/Tencent-Hunyuan/OmniWeaving.svg?style=social&label=Star)](https://github.com/Tencent-Hunyuan/OmniWeaving) 
+    <details> Text / First-frame / Key-frame / Video / Reference / Compositional Multi-image / Text-Image / Reasoning-augmented to video generation</details>
 
 - [**Seedance 2.0**](https://seed.bytedance.com/zh/seedance2_0) <details><summary>Unified multimodal video-audio joint generation framework</summary>Seedance 2.0 significantly enhances its multimodal processing capabilities, supporting highly diverse and flexible mixed-modality inputs. Users can provide up to nine images, three video clips, three audio segments, along with natural language instructions simultaneously. This design enables the model to draw from multiple reference sources within a single creative task, rather than being limited to a single image or text prompt.</details>
 
