@@ -96,6 +96,12 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 ## Any-to-Any
 Any-to-Any generation refers to unified systems that can take inputs from multiple modalities (e.g., text/image/video/audio) and produce outputs in multiple modalities within a single framework.
 
+- [**Context Unrolling in Omni Models**](https://arxiv.org/pdf/2604.21921)[![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://omni-model.com/)     
+    *🏷️:* `BAGEL`|`Context Unrolling`|`📄🎬🎨🧊`
+
+- [**LongCat-Next: Lexicalizing Modalities as Discrete Tokens**](https://arxiv.org/pdf/2603.27538)  [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/meituan-longcat/LongCat-Next.svg?style=social&label=Star)](https://github.com/meituan-longcat/LongCat-Next)     
+    *🏷️:* `AR`|`Modality-Agnostic MoE`|`📄🎨🔊`
+
 - [**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**](https://arxiv.org/pdf/2603.05075)   [![Paper](https://img.shields.io/badge/CVPR26-8A2BE2)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://any2any-mllm.github.io/unim/)  
     *🏷️:* `Agentic System`|`📄🎨🔊🎶🧊...`
 
@@ -112,6 +118,8 @@ Any-to-Any generation refers to unified systems that can take inputs from multip
 - [**STAR: STacked AutoRegressive Scheme for Unified Multimodal Learning**](https://arxiv.org/pdf/2512.13752) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://star-mm-ai.github.io/)    [![Star](https://img.shields.io/github/stars/MM-MVR/STAR.svg?style=social&label=Star)](https://github.com/MM-MVR/STAR)   
     *🏷️:* `llm`|`diffusion`|`📄🎨`
 
+- [**NExT-OMNI: Towards Any-to-Any Omnimodal Foundation Models with Discrete Flow Matching**](https://arxiv.org/pdf/2510.13721) ![Paper](https://img.shields.io/badge/arXiv25-b22222)   
+    🏷️:* `AR`|`discrete flow matching`|`📄🎨🎤` 
 
 - [**Symbolic Representation for Any-to-Any Generative Tasks**](https://arxiv.org/pdf/2504.17261)  [![Paper](https://img.shields.io/badge/CVPR25-8A2BE2)]()  [![Star](https://img.shields.io/github/stars/Jiaqi-Chen-00/Any-2-Any.svg?style=social&label=Star)](https://github.com/Jiaqi-Chen-00/Any-2-Any)    
     *🏷️:* `llm`|`diffusion`|`📄🎬🎨🧊`
