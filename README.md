@@ -96,6 +96,9 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 ## Any-to-Any
 Any-to-Any generation refers to unified systems that can take inputs from multiple modalities (e.g., text/image/video/audio) and produce outputs in multiple modalities within a single framework.
 
+- [**Training-Free Multimodal Large Language Model Orchestration**](https://arxiv.org/pdf/2508.10016)[![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Star](https://img.shields.io/github/stars/MAC-AutoML/Trainingfree-LLM-Orchestration.svg?style=social&label=Star)](https://github.com/MAC-AutoML/Trainingfree-LLM-Orchestration)       
+    *🏷️:* `Controller → Router → Experts`|`Training-Free Orchestration`|`📄🎬🎨`
+
 - [**Context Unrolling in Omni Models**](https://arxiv.org/pdf/2604.21921)[![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://omni-model.com/)     
     *🏷️:* `BAGEL`|`Context Unrolling`|`📄🎬🎨🧊`
 
@@ -237,6 +240,11 @@ Any-to-X methods accept flexible inputs (potentially multi-modal, such as text +
 ### Any-to-Text
 Any-to-Text focuses on producing textual outputs (captioning, explanation, dialogue, reasoning traces, instruction-following) from arbitrary visual/audio/3D/video inputs.
 
+- [**Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence**](https://arxiv.org/pdf/2604.24954) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  
+    *🏷️:* `Nemotron 3 Nano`|`📄🎬🎨🔊`
+
+- [**OmniEncoder: See, Hear, and Feel Continuous Motion Like Humans With One Encoder**](https://arxiv.org/pdf/2605.01506v1) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  
+    *🏷️:* `Qwen2.5-Omni`|`📄🎬🎨🔊`
 
 - [**OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models**](https://www.arxiv.org/pdf/2602.04804) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  
     *🏷️:* `Qwen2.5-Omni`|`📄🎬🎨🔊`
