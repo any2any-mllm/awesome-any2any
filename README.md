@@ -4,7 +4,7 @@
 
 
 # 📣News
-✨✨✨We are organizing a **CVPR26 Workshop** on [Any-to-Any Multimodal Learning](https://any2any-mllm.github.io/workshop-cvpr26/), welcome submission.
+✨✨✨Thanks everyone for joining the **CVPR26 Workshop** on [Any-to-Any Multimodal Learning](https://any2any-mllm.github.io/workshop-cvpr26/). We hope you enjoyed the workshop, found the discussions valuable, and made new connections. Looking forward to more exciting research and future collaborations!
 
 
 # 🎨 Introduction
