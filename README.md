@@ -110,7 +110,7 @@ Any-to-Any generation refers to unified systems that can take inputs from multip
 - [**LongCat-Next: Lexicalizing Modalities as Discrete Tokens**](https://arxiv.org/pdf/2603.27538)  [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/meituan-longcat/LongCat-Next.svg?style=social&label=Star)](https://github.com/meituan-longcat/LongCat-Next)     
     *🏷️:* `AR`|`Modality-Agnostic MoE`|`📄🎨🔊`
 
-- [**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**](https://arxiv.org/pdf/2603.05075)   [![Paper](https://img.shields.io/badge/CVPR26-8A2BE2)]() [![Star](https://img.shields.io/github/stars/liyanlin06/UniM.svg?style=social&label=Star)](https://github.com/liyanlin06/UniM)   
+- [**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**](https://arxiv.org/pdf/2603.05075)   [![Paper](https://img.shields.io/badge/CVPR26-8A2BE2)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://any2any-mllm.github.io/unim/) [![Star](https://img.shields.io/github/stars/liyanlin06/UniM.svg?style=social&label=Star)](https://github.com/liyanlin06/UniM)   
     *🏷️:* `Agentic System`|`📄🎨🔊🎶🧊...`
 
 - [**OmniGAIA: Towards Native Omni-Modal AI Agents**](https://arxiv.org/pdf/2602.22897) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  [![Star](https://img.shields.io/github/stars/RUC-NLPIR/OmniGAIA.svg?style=social&label=Star)](https://github.com/RUC-NLPIR/OmniGAIA)  
