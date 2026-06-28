@@ -98,10 +98,15 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 ## Any-to-Any
 Any-to-Any generation refers to unified systems that can take inputs from multiple modalities (e.g., text/image/video/audio) and produce outputs in multiple modalities within a single framework.
 
+- [**Cosmos 3: Omnimodal World Models for Physical AI**](https://arxiv.org/pdf/2606.02800) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/nvidia/cosmos.svg?style=social&label=Star)](https://github.com/nvidia/cosmos)      
+    *🏷️:* `Mixtures-of-Transformers(MoT)`|`📄🎨🔊🎬🎯` 
+
+
+
 - [**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**](https://arxiv.org/abs/2603.06577)[![Paper](https://img.shields.io/badge/ICML26-FF7F50)]()   [![Star](https://img.shields.io/github/stars/VITA-MLLM/Omni-Diffusion.svg?style=social&label=Star)](https://github.com/VITA-MLLM/Omni-Diffusion)       
     *🏷️:* `Masked Discrete Diffusion`|`📄🎨🔊`
 
-- [**Training-Free Multimodal Large Language Model Orchestration**](https://arxiv.org/pdf/2508.10016)[![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Star](https://img.shields.io/github/stars/MAC-AutoML/Trainingfree-LLM-Orchestration.svg?style=social&label=Star)](https://github.com/MAC-AutoML/Trainingfree-LLM-Orchestration)       
+- [**Training-Free Multimodal Large Language Model Orchestration**](https://arxiv.org/pdf/2508.10016) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Star](https://img.shields.io/github/stars/MAC-AutoML/Trainingfree-LLM-Orchestration.svg?style=social&label=Star)](https://github.com/MAC-AutoML/Trainingfree-LLM-Orchestration)       
     *🏷️:* `Controller → Router → Experts`|`Training-Free Orchestration`|`📄🎬🎨`
 
 - [**Context Unrolling in Omni Models**](https://arxiv.org/pdf/2604.21921)[![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://omni-model.com/)     
