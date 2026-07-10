@@ -4,6 +4,8 @@
 
 
 # 📣News
+✨✨✨ We are organizing the International Journal of Computer Vision (IJCV) Special Issue on [Multimodal Large Language Models for Unified Comprehension and Generation (MUCG)](https://mllm-mucg.github.io/IJCV2026-SI/). Welcome [submissions](https://link.springer.com/collections/haeajgifcb).
+
 ✨✨✨Thanks everyone for joining the **CVPR26 Workshop** on [Any-to-Any Multimodal Learning](https://any2any-mllm.github.io/workshop-cvpr26/). We hope you enjoyed the workshop, found the discussions valuable, and made new connections. Looking forward to more exciting research and future collaborations!
 
 
@@ -106,7 +108,7 @@ Any-to-Any generation refers to unified systems that can take inputs from multip
 - [**Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**](https://arxiv.org/abs/2603.06577)[![Paper](https://img.shields.io/badge/ICML26-FF7F50)]()   [![Star](https://img.shields.io/github/stars/VITA-MLLM/Omni-Diffusion.svg?style=social&label=Star)](https://github.com/VITA-MLLM/Omni-Diffusion)       
     *🏷️:* `Masked Discrete Diffusion`|`📄🎨🔊`
 
-- [**Training-Free Multimodal Large Language Model Orchestration**](https://arxiv.org/pdf/2508.10016) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Star](https://img.shields.io/github/stars/MAC-AutoML/Trainingfree-LLM-Orchestration.svg?style=social&label=Star)](https://github.com/MAC-AutoML/Trainingfree-LLM-Orchestration)       
+- [**Training-Free Multimodal Large Language Model Orchestration**](https://arxiv.org/pdf/2508.10016) [![Paper](https://img.shields.io/badge/ICML26-FF7F50)]()   [![Star](https://img.shields.io/github/stars/MAC-AutoML/Trainingfree-LLM-Orchestration.svg?style=social&label=Star)](https://github.com/MAC-AutoML/Trainingfree-LLM-Orchestration)       
     *🏷️:* `Controller → Router → Experts`|`Training-Free Orchestration`|`📄🎬🎨`
 
 - [**Context Unrolling in Omni Models**](https://arxiv.org/pdf/2604.21921)[![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://omni-model.com/)     
@@ -266,6 +268,8 @@ Any-to-Text focuses on producing textual outputs (captioning, explanation, dialo
 **](https://arxiv.org/pdf/2602.00846)  [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() 
     *🏷️:* `📄🎬🎨🔊` 
 
+- [**Agent-Omni: Test-Time Multimodal Reasoning via Model Coordination for Understanding Anything**](https://arxiv.org/pdf/2511.02834) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]() 
+
 - [**AnyCap Project: A Unified Framework, Dataset, and Benchmark for Controllable Omni-modal Captioning**](https://arxiv.org/pdf/2507.12841) [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()  [![Star](https://img.shields.io/github/stars/qishisuren123/AnyCap.svg?style=social&label=Star)](https://github.com/qishisuren123/AnyCap)  
     *🏷️:* `Qwen2.5-VL`|`📄🎬🎨🔊`
 
@@ -351,6 +355,8 @@ Any-to-Video targets video generation from flexible conditions (text/image/video
 - [**Seedance 2.0**](https://seed.bytedance.com/zh/seedance2_0) <details><summary>Unified multimodal video-audio joint generation framework</summary>Seedance 2.0 significantly enhances its multimodal processing capabilities, supporting highly diverse and flexible mixed-modality inputs. Users can provide up to nine images, three video clips, three audio segments, along with natural language instructions simultaneously. This design enables the model to draw from multiple reference sources within a single creative task, rather than being limited to a single image or text prompt.</details>
 
 - [**SkyReels-V3 Technique Report**](https://arxiv.org/pdf/2601.17323)  [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V3.svg?style=social&label=Star)](https://github.com/SkyworkAI/SkyReels-V3)  
+
+- [**Kling-Omni Technical Report**](https://arxiv.org/pdf/2512.16776). [![Paper](https://img.shields.io/badge/arXiv25-b22222)]()
 
 - [**Videopoet:A large language model for zero-shot video generation**](https://arxiv.org/pdf/2312.14125)  [![Paper](https://img.shields.io/badge/ICCV24-2f4f4f)]() [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-T2X.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-T2X)  
 
@@ -458,6 +464,8 @@ Unlike standard VAEs that model a single data distribution, multimodal VAEs aim 
 - [**UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes**](https://arxiv.org/pdf/2205.10337)
 
 ## Tools
+
+- [**Omni-Flow: A Unified Workflow Orchestration and Distributed KV Cache Sharing Framework for Multimodal Inference**](https://arxiv.org/pdf/2606.31093)
 
 - [**vllm-omni**]( https://docs.vllm.ai/projects/vllm-omni/en/latest/#about) 
     - [Blog](https://blog.vllm.ai/2025/11/30/vllm-omni.html)
