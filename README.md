@@ -148,6 +148,9 @@ Any-to-Any generation refers to unified systems that can take inputs from multip
 - [**Cosmos 3: Omnimodal World Models for Physical AI**](https://arxiv.org/pdf/2606.02800) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/nvidia/cosmos.svg?style=social&label=Star)](https://github.com/nvidia/cosmos)      
     *🏷️:* `Mixtures-of-Transformers(MoT)`|`📄🎨🔊🎬🎯` 
 
+- [**Dynin-Omni: Omnimodal Unified Large Diffusion Language Model**](https://arxiv.org/abs/2604.00007) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://dynin.ai/omni/) [![Star](https://img.shields.io/github/stars/AIDASLab/Dynin-Omni.svg?style=social&label=Star)](https://github.com/AIDASLab/Dynin-Omni)
+    *🏷️:* `Masked Discrete Diffusion`|`📄🎨🎬🎤`
+
 
 
 - [**Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation**](https://arxiv.org/pdf/2606.30054) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
