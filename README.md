@@ -53,6 +53,8 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 
 - [**UniM: A Unified Any-to-Any Interleaved Multimodal Benchmark**](https://arxiv.org/pdf/2603.05075) `📄🎨🔊🎶🧊...`
 
+- [**What Comes Next? Omni-StoryBench for Evaluating Story-Grounded Omnimodal Generation**](https://arxiv.org/pdf/2609.37317)    `📄🎨🎤`
+
 - [**WorldSense: Evaluating Real-world Omnimodal Understanding for Multimodal LLMs**](https://arxiv.org/pdf/2502.04326)
 
 - [**UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?**](https://arxiv.org/pdf/2603.03241)
@@ -74,6 +76,44 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 - [**IMUG-Bench: Benchmarking Unified Multimodal Models on Interleaved Understanding and Generation**](https://arxiv.org/pdf/2606.09169)  `📄🎨`
 
 - [**InterleavedBench: Holistic Evaluation for Interleaved Text-and-Image Generation**](https://arxiv.org/pdf/2406.14643)  `📄🎨`
+
+- [**Omni-Life: Benchmarking Omnimodal Real-Time AI Assistants in People's Daily Lives**](https://arxiv.org/pdf/2611.02835)    `📄🎬🔊`
+
+- [**InteractionBench: Measuring Timing, Task Accuracy, Whisper and Volume, and Grounding in Real-Time Voice Systems**](https://arxiv.org/pdf/2611.02430)    `🎤`
+
+- [**Omni-InteractScope: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams**](https://arxiv.org/pdf/2610.35439)    `📄🎬🔊`
+
+- [**RVG-Bench: A Benchmark for Reasoning-Driven Audio-Visual Temporal Grounding**](https://arxiv.org/pdf/2610.32268)    `📄🎬🔊`
+
+- [**Omni-UBench: Benchmarking Omni-Modal LLM-based Guardrails Across Safety, Utility, and Reliability**](https://arxiv.org/pdf/2610.31713)    `📄🎨🎬🔊`
+
+- [**TRIAD: Benchmarking Omni-Modal Ambiguity in Multimodal Large Language Models**](https://arxiv.org/pdf/2610.30841)    `📄🎨🔊`
+
+- [**Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**](https://arxiv.org/pdf/2610.29455)    `📄🎬🔊`
+
+- [**MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents**](https://arxiv.org/pdf/2610.29249)    `📄🎨🎬🔊`
+
+- [**EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning**](https://arxiv.org/pdf/2610.28444)    `📄🎬🔊`
+
+- [**DIVE: Benchmarking Full-Duplex Interaction with Visual Engagement in Continuous Streams**](https://arxiv.org/pdf/2610.28405)    `📄🎬🔊`
+
+- [**From Perception to Prediction and Intervention: Benchmarking Proactive Video Assistants in Real-Life Scenarios**](https://arxiv.org/pdf/2610.21568)    `📄🎬`
+
+- [**OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding**](https://arxiv.org/pdf/2610.18829)    `📄🎬🔊`
+
+- [**DuplexAct: How Interactive Are Frontier Full-Duplex Spoken Language Models?**](https://arxiv.org/pdf/2610.17738)    `🎤`
+
+- [**HMU-Bench: Hierarchical Music Understanding Benchmark for Omni Models**](https://arxiv.org/pdf/2610.15773)    `📄🔊🎶`
+
+- [**OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning**](https://arxiv.org/pdf/2610.12458)    `📄🎬🔊`
+
+- [**InteractionBench: A Real-Time Interaction Benchmark for Streaming Video Systems**](https://arxiv.org/pdf/2610.05775)    `📄🎬`
+
+- [**DuplexAct-Bench: Broadening Full-Duplex Speech Evaluation toward Proactive Interaction across Diverse Behavioral Requirements**](https://arxiv.org/pdf/2609.39446)    `🎤`
+
+- [**MultiTalk: Scaling Full-Duplex Speech Models to Long, Multi-Party, Bilingual Conversation**](https://arxiv.org/pdf/2609.36903)    `🎤`
+
+- [**Omni Demand Understanding: A Benchmark for Contextual User-Intent Inference in Multimodal Interaction**](https://arxiv.org/pdf/2609.21392)    `📄🎬🔊`
 
 - [**SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models**](https://arxiv.org/pdf/2603.16859) `📄🎨🔊🎶`
 
@@ -101,6 +141,12 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 
 - [**OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs**](https://arxiv.org/pdf/2510.10689)    `📄🎬🔊`
 
+- [**CAST-Bench: Tracing Every Sound to Its Source in Multi-Shot Audio-Video Generation**](https://arxiv.org/pdf/2611.05422)    `🎬🔊`
+
+- [**SyncReward: Human-Aligned Synchronization Reward for Audio-Visual Generation**](https://arxiv.org/pdf/2610.16338)    `🎬🔊`
+
+- [**ORAV: Benchmarking Audio-Video Generation from Multimodal Contexts**](https://arxiv.org/pdf/2609.34843)    `📄🎨🎬🔊`
+
 - [**VA-Judger: Reward Modeling from Human Preference Feedback for Joint Video-Audio Generation**](https://arxiv.org/pdf/2608.18607)    `🎬🔊`
 
 - [**MTAVG-Bench 2.0: Diagnosing Failure Modes of Cinematic Expressiveness in Multi-Talker Audio-Video Generation**](https://arxiv.org/pdf/2605.28035)    `🎬🔊`
@@ -127,14 +173,47 @@ A model/system is considered Any-to-Any if it satisfies at least one of the foll
 ## Any-to-Any
 Any-to-Any generation refers to unified systems that can take inputs from multiple modalities (e.g., text/image/video/audio) and produce outputs in multiple modalities within a single framework.
 
+- [**Modaliff: A Unified Token Diffusion Model for Any-to-Any Generation**](https://arxiv.org/pdf/2610.25533) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Token Diffusion`|`Bimodal Pairs Only`|`📄🎨🔊`
+
+- [**Jarvis: Coordination Deserves a Brain of Its Own in Agentic Interactive Models**](https://arxiv.org/pdf/2610.23804) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Full-Duplex`|`Coordination Harness`|`Front Model + Back-End Brain`|`📄🎬🎤`
+
+- [**JAVIS: Joint Audio-Visual Interaction and Streaming for Real-Time Conversational Agents**](https://arxiv.org/pdf/2610.22499) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://mm.kaist.ac.kr/projects/JAVIS)   
+    *🏷️:* `Streaming`|`Joint Speech + Face Generation`|`🎤🎬`
+
+- [**Full-Duplex Interaction with Speech, Expressions and Gestures**](https://arxiv.org/pdf/2610.21452) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `ELLSA 2`|`Full-Duplex`|`Speech + Gesture/Expression`|`🎤🏃🏻`
+
+- [**Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation**](https://arxiv.org/pdf/2610.20818) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Discrete Diffusion LM`|`Multi-Codebook`|`📄🎨🎬🧊`
+
+- [**Scaling Unified Multimodal Models to Long-Horizon Interleaved Generation**](https://arxiv.org/pdf/2610.17080) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Visual Memory`|`Long-Horizon Interleaved Generation`|`📄🎨`
+
+- [**D2: High-Capability Full-Duplex Spoken Language Models from Half-Duplex Backbones**](https://arxiv.org/pdf/2610.17124) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://d2-duplex-demo.github.io/)   
+    *🏷️:* `Qwen3-Omni`|`Half-Duplex → Full-Duplex`|`🎤`
+
+- [**Omni-Diffusion-Distill: Few-Step Distillation of Unified Multimodal Diffusion Large Language Models**](https://arxiv.org/pdf/2610.10990) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Masked Discrete Diffusion`|`Few-Step Distillation`|`📄🎨`
+
+- [**MUNITE: Unified Multimodal Latent Inference for Any-to-Any Multimodal Generation**](https://arxiv.org/pdf/2610.09866) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://munite-proj.github.io)   
+    *🏷️:* `Conditional Flow`|`Unified Latent Inference`|`📄🎨🔊`
+
 - [**UniWAM: Unified World-Action Model**](https://arxiv.org/pdf/2610.02054) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
     *🏷️:* `World-Action Model`|`Physical Reasoner + World Generator + Action Predictor`
 
 - [**Qwen3.8-Omni: Towards Native Omni-Modal Agents**](https://arxiv.org/pdf/2609.25611) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
     *🏷️:* `Sparse MoE`|`Agent`|`📄🎬🔊`
 
+- [**OmniFysics-Nano-V2 Technical Report: Understanding the Physical World Across Modalities**](https://arxiv.org/pdf/2609.25738) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `OmniFysics`|`Physical-World Perception`|`📄🎬🎨🔊🎤`
+
 - [**Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model**](https://arxiv.org/pdf/2609.13053) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
     *🏷️:* `Masked Discrete Diffusion`|`VLA`|`📄🎨🎯`
+
+- [**Multimodal Duplex Interaction Agent**](https://arxiv.org/pdf/2609.08977) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://Omni-Interaction-Gander.github.io/Omni-Interaction-Agent)   
+    *🏷️:* `Gander`|`MiniCPM-o 4.5`|`Cerebellum–Brain`|`Full-Duplex Agent`|`📄🎬🎤`
 
 - [**Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence**](https://arxiv.org/pdf/2608.10720) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
     *🏷️:* `Visual Thought Plan`|`Streaming`|`📄🎤🎬`
@@ -341,8 +420,77 @@ Any-to-X methods accept flexible inputs (potentially multi-modal, such as text +
 ### Any-to-Text
 Any-to-Text focuses on producing textual outputs (captioning, explanation, dialogue, reasoning traces, instruction-following) from arbitrary visual/audio/3D/video inputs.
 
+- [**SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?**](https://arxiv.org/pdf/2611.06083) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `VLM Agent Harness`|`Transcript instead of Audio`|`📄🎬`
+
+- [**R$^2$-Omni: Reducing Structural and Precision Redundancy in Omni-LLMs for Long-Form Generation**](https://arxiv.org/pdf/2611.03247) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Token Compression`|`KV Precision`|`Long-Form Generation`|`📄🎬🔊`
+
+- [**Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities**](https://arxiv.org/pdf/2610.39301) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/TencentCloudADP/youtu-parsing.svg?style=social&label=Star)](https://github.com/TencentCloudADP/youtu-parsing)   
+    *🏷️:* `Omni-Modal Parsing`|`One Shared Encoder`|`OmniSchema JSON`|`📄🎨🎬🔊`
+
+- [**Efficient Agentic Audio-Visual Question Answering through Toolset Pruning and Modality Consolidation**](https://arxiv.org/pdf/2610.38960) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `OmniAgent`|`Two-Tool Agent`|`📄🎬🔊`
+
+- [**Live-OPSD: On-Policy Self-Distillation for Proactive Streaming Large Video Models**](https://arxiv.org/pdf/2610.36959) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Qwen3-Omni-30B-A3B`|`Proactive Streaming`|`📄🎬🔊`
+
+- [**Efficient Omni-modal Large Language Model Inference via Per-Query Modality Selection**](https://arxiv.org/pdf/2610.31768) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Qwen2.5/3-Omni`|`Per-Query Modality Selection`|`📄🎬🔊`
+
+- [**Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs**](https://arxiv.org/pdf/2610.27103) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/ZiiJianLiu/Omni-Woodpecker.svg?style=social&label=Star)](https://github.com/ZiiJianLiu/Omni-Woodpecker)   
+    *🏷️:* `Qwen2.5-Omni-7B`|`Hallucination`|`Training-Free`|`📄🎬🔊`
+
+- [**Beyond Omni: A Unified MLLM for Embodied Sensory Understanding**](https://arxiv.org/pdf/2610.26751) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Unisense`|`8 Sensory Modalities (Depth/Point Cloud/IMU/Tactile/Thermal/Radar/Motion/Smell)`|`📄🎨🧊`
+
+- [**Focused Omni-Modal GUI Agents**](https://arxiv.org/pdf/2610.26203) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `FocusGUI`|`Streaming Omni-Modal GUI Agent`|`📄🎨🎬🔊`
+
+- [**OmniGround: Strengthening Omni-Modal Temporal Grounding via Attention-Consistency Training**](https://arxiv.org/pdf/2610.25929) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Temporal Grounding`|`Attention-Consistency`|`📄🎬🔊`
+
+- [**PW-Pruning: Phase-Aware Expert Selection for Speech-Centric Omni-Modal Models**](https://arxiv.org/pdf/2610.26891) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Qwen3-Omni`|`Expert Pruning`|`📄🔊`
+
+- [**Omni-Modal LLMs Know More Than They Say**](https://arxiv.org/pdf/2610.16135) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/naver-ai/OmniLLM.svg?style=social&label=Star)](https://github.com/naver-ai/OmniLLM)   
+    *🏷️:* `Knows-but-Cannot-Say`|`OmniCatalyst`|`📄🎨🔊`
+
+- [**Estimating Uncertainty of Omnimodal Large Language Models via External Omnimodal Embeddings**](https://arxiv.org/pdf/2610.16933) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Uncertainty Quantification`|`Model-Agnostic`
+
+- [**EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams**](https://arxiv.org/pdf/2610.12248) [![Paper](https://img.shields.io/badge/EMNLP26-191970)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://egocentricvoice.github.io/)   
+    *🏷️:* `Proactive`|`Egocentric`|`📄🎬🔊🎤`
+
+- [**Text-Centric Post-Training for Omni-Modal Reasoning**](https://arxiv.org/pdf/2610.02819) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Qwen2.5-Omni-7B`|`Text-Only Reasoning Training + AV Refinement`|`📄🎬🔊`
+
+- [**OmniConfess: Eliciting Token Confessions to Mitigate Omni-Modal Hallucination**](https://arxiv.org/pdf/2610.02999) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/RongHuiQiang/OmniConfess.svg?style=social&label=Star)](https://github.com/RongHuiQiang/OmniConfess)   
+    *🏷️:* `Hallucination`|`Training-Free`|`OmniHalluBench`|`📄🎨🎬🔊`
+
+- [**Learning to Reason with Compressed Context: Ground-Truth-Free Adaptation of OmniLLMs via Self-Distillation**](https://arxiv.org/pdf/2609.39953) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Star](https://img.shields.io/github/stars/Bamboos2003/CAFD.svg?style=social&label=Star)](https://github.com/Bamboos2003/CAFD)   
+    *🏷️:* `CAFD`|`Qwen2.5-Omni-7B`|`Token Compression`|`📄🎬🔊`
+
+- [**OmniReasoning: Pushing the Limits of Audio-Visual Joint Reasoning**](https://arxiv.org/pdf/2609.39490) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Qwen3-Omni-30B-A3B-Thinking`|`OmniReasoningBench`|`Modality-Factored Self-Distillation`|`📄🎬🔊`
+
+- [**Seeing What Should Be Heard: Diagnosing and Repairing Cross-Modal Shortcuts in Omni-Modal LLMs**](https://arxiv.org/pdf/2609.36798) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Cross-Modal Shortcut`|`DMC-Repair`|`📄🎨🔊`
+
+- [**OmniRoute: Mapping Temporal Semantic Evidence to Audio-Visual Token Budgets for Efficient Omnimodal Large Language Models**](https://arxiv.org/pdf/2609.37052) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Token Compression`|`Training-Free`|`📄🎬🔊`
+
+- [**SyncRA: Learning Temporal Correspondence in Omni-Modal Models**](https://arxiv.org/pdf/2609.34363) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Temporal Correspondence`|`Representation Alignment`|`📄🎬🔊`
+
 - [**OmniFysics-Captioner Technical Report: Grounding Omni-Modal Understanding in the Physical World for Better Captioning**](https://arxiv.org/pdf/2609.31714) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  
     *🏷️:* `Captioning`
+
+- [**OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue**](https://arxiv.org/pdf/2609.21465) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Qwen3-Omni`|`Native Audio-Visual Dialogue`|`📄🎬🔊`
+
+- [**Omni-Streaming Thinking**](https://arxiv.org/pdf/2609.15128) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* `Streaming`|`Premature Cross-Modal Commitment`|`📄🎬🔊`
 
 - [**OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models**](https://arxiv.org/pdf/2608.03812) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()  
     *🏷️:* `Token Compression`|`📄🎬🔊`
@@ -473,6 +621,27 @@ Any-to-Image methods generate images conditioned on diverse inputs beyond text, 
 ### Any-to-Video
 Any-to-Video targets video generation from flexible conditions (text/image/video/audio/trajectory/layout).
 
+- [**TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation**](https://arxiv.org/pdf/2611.03394) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://taoliveaigc.github.io/TaoMate-HD)
+    <details> Streaming digital human: chunk-wise autoregressive progressive-resolution audio-video generation that keeps speaking as new text arrives; supports hour-long generation</details>
+
+- [**OmniOPD: Stable On-Policy Distillation for Joint Audio-Video Generation**](https://arxiv.org/pdf/2611.02803) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()
+    <details> Modality-wise on-policy distillation that merges specialized audio and video RL teachers into one joint audio-video generator</details>
+
+- [**Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation**](https://arxiv.org/pdf/2610.20571) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://lhmd.top/atas/) [![Star](https://img.shields.io/github/stars/ziplab/ATAS.svg?style=social&label=Star)](https://github.com/ziplab/ATAS)
+    <details> Screenplay to multi-shot video with scene memory and event memory for cross-shot spatial/temporal consistency</details>
+
+- [**SepGen: Multi-Stem Audio-Video Separation and Generation in a Single Model**](https://arxiv.org/pdf/2610.11361) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://sepgen.github.io/)
+    <details> Joint sampling of video, mixed soundtrack and one waveform per captioned source; generation and text-guided separation in one model</details>
+
+- [**Real-Time Joint Audio-Video Generation by Parallel Adapter Composition**](https://arxiv.org/pdf/2610.10343) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://pac-demo-2027.github.io/demo/)
+    <details> Causal adapter + off-the-shelf few-step adapter composed by addition on a packed audio-video DiT; ~26 fps streaming joint audio-video at 480x832</details>
+
+- [**CrossEdit: Cross-Modal Training Enables Rich Audio-Visual Editing**](https://arxiv.org/pdf/2610.10264) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://wanchichen.github.io/crossedit/)
+    <details> Unified omni-modal editing model for image / audio / video; zero-shot audio-visual movie-scene editing via cross-modal transfer of instruction following</details>
+
+- [**Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training**](https://arxiv.org/pdf/2610.05416) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()
+    <details> Dynamic sparse attention for natively training joint video-audio generators at 2K; 2.5x training speedup over full attention</details>
+
 - [**LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows**](https://arxiv.org/pdf/2609.15863) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()
     <details> Text / Image / 3D render / Game recording / Appearance reference / Degraded video to video generation, editing, restoration and long-video generation with a 32B shared multimodal DiT</details>
 
@@ -544,6 +713,15 @@ Image-to-Any aims to generate other modalities from visual input, such as image 
 - [**The Platonic Representation Hypothesis**](https://arxiv.org/pdf/2405.07987) [![Paper](https://img.shields.io/badge/ICML24-FF7F50)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://phillipi.github.io/prh/)   
     <details><summary>Neural networks, trained with different objectives on different data and modalities, are converging to a shared statistical model of reality in their representation spaces.</summary>Conventionally, different AI systems represent the world in different ways. A vision system might represent shapes and colors, a language model might focus on syntax and semantics. However, in recent years, the architectures and objectives for modeling images and text, and many other signals, are becoming remarkably alike. Are the internal representations in these systems also converging?</details>
 
+- [**When Does Sharing Work? Scaling a Shared SigLIP2 Across Image, Video, Audio, and Audio-Visual Representations**](https://arxiv.org/pdf/2611.05406) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   
+    *🏷️:* ` Omni-Encoder`|`Fully Shared Parameters`|`📄🎨🎬🔊`
+
+- [**Syn-Omni: Structured Specialization and Progressive Collaboration for Omnimodal Embeddings**](https://arxiv.org/pdf/2610.12256) [![Paper](https://img.shields.io/badge/EMNLP26-191970)]() [![Star](https://img.shields.io/github/stars/sony/syn-omni.svg?style=social&label=Star)](https://github.com/sony/syn-omni)   
+    *🏷️:* ` Omni-modal embedding`|`Orthogonal Modality-Expert LoRA`|`📄🎨🎬🔊`
+
+- [**Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation**](https://arxiv.org/pdf/2610.02148) [![Paper](https://img.shields.io/badge/EMNLP26-191970)]() [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://omniembed.cvmbzuai.com)   
+    *🏷️:* ` Omni-modal embedding`|`0.9B / 2.3B`|`Frozen Text Side`|`📄🎨🎬🔊🎤`
+
 - [**Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings**](https://arxiv.org/pdf/2609.25165) [![Paper](https://img.shields.io/badge/arXiv26-b22222)]()   [![Star](https://img.shields.io/github/stars/ATH-MaaS/Ovis-Omni-Embedding.svg?style=social&label=Star)](https://github.com/ATH-MaaS/Ovis-Omni-Embedding)   
     *🏷️:* ` Omni-modal embedding`|`📄🎨🎬🔊`
 
@@ -608,6 +786,11 @@ Unlike standard VAEs that model a single data distribution, multimodal VAEs aim 
 
 ## Survey
 
+- [**Native Real-Time Interactive Omni Intelligence: A Unified Framework**](https://doi.org/10.5281/zenodo.23200795) [![Star](https://img.shields.io/github/stars/ShenYifanS/Awesome-Interactive-Omni.svg?style=social&label=Star)](https://github.com/ShenYifanS/Awesome-Interactive-Omni)
+    <details> Omni Intelligence + Omni Interactivity; adapted vs. native real-time omni systems; Intelligence–Interactivity Trade-off; Multi-Rate (foreground–background) Interactive Intelligence; six evaluation dimensions (latency / timing / content / robustness / long-session / repair). Also on <a href="https://www.alphaxiv.org/abs/2610.real-time-interactive-omni-intelligence">alphaXiv</a> and Preprints.org (DOI 10.20944/preprints202610.1649.v1).</details>
+
+- [**Joint and Cross-Modal Video-Audio Generation and Editing: A Unified Formulation and Design Taxonomy**](https://arxiv.org/pdf/2609.34381)
+
 - [**Toward Native Multimodal Modeling: A Roadmap**](https://arxiv.org/pdf/2605.25343)
 
 - [**From Specific-MLLMs to Omni-MLLMs: A Survey on MLLMs Aligned with Multi-modalities**](https://arxiv.org/pdf/2412.11694)
@@ -628,6 +811,9 @@ Unlike standard VAEs that model a single data distribution, multimodal VAEs aim 
 
 ## Awesome Github Repo
 
+- [**Awesome-Interactive-Omni**](https://github.com/ShenYifanS/Awesome-Interactive-Omni)
+    <details><summary>real-time interactive omni models</summary>Companion list of the survey <i>Native Real-Time Interactive Omni Intelligence</i>: full-duplex dialogue, streaming audio/video, reasoning, memory, tool use, training data and evaluation.</details>
+
 - [**Awesome-Any-to-Any-Generation**](https://github.com/macabdul9/Awesome-Any-to-Any-Generation)
 
 - [**Awesome-Multimodal-Large-Language-Models**](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
@@ -645,6 +831,11 @@ Unlike standard VAEs that model a single data distribution, multimodal VAEs aim 
 
 
 ## Interesting Works
+- [**OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?**](https://arxiv.org/pdf/2609.38079)
+- [**Can Visual Generation Expand What Unified Multimodal Models Know?**](https://arxiv.org/pdf/2610.21459)
+- [**What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models**](https://arxiv.org/pdf/2610.23987)
+- [**Oddin: Latent Visual Reasoning in Unified Multimodal Models via Self-Distillation from Image Generation**](https://arxiv.org/pdf/2610.33062)
+- [**Does Gradient Conflict Predict the Understanding–Generation Trade-off? A Controlled Audit of Conflict-Metric Validity in Unified Multimodal Models**](https://arxiv.org/pdf/2609.38465)
 - [**Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System**](https://arxiv.org/pdf/2609.01607)
 - [**Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes**](https://arxiv.org/pdf/2608.05000)
 - [**Ask, Solve, Generate: Self-Evolving Unified Multimodal Understanding and Generation via Self-Consistency Rewards**](https://arxiv.org/pdf/2606.27376)
@@ -654,6 +845,10 @@ Unlike standard VAEs that model a single data distribution, multimodal VAEs aim 
 - [**UViM: A Unified Modeling Approach for Vision with Learned Guiding Codes**](https://arxiv.org/pdf/2205.10337)
 
 ## Tools
+
+- [**vLLM-Omni Technical Report: A Unified Serving Runtime for Omni-Modality Generation**](https://arxiv.org/pdf/2610.09307)
+
+- [**OmniTide: Co-Designing Algorithms and Systems for Efficient On-Device Omni-LLM Streaming**](https://arxiv.org/pdf/2609.34653)
 
 - [**Omni-Flow: A Unified Workflow Orchestration and Distributed KV Cache Sharing Framework for Multimodal Inference**](https://arxiv.org/pdf/2606.31093)
 
